@@ -10,3 +10,15 @@
 /home/suyogrepale/DotNet/DotNet1/IntroLib/obj/Debug/net6.0/IntroLib.dll
 /home/suyogrepale/DotNet/DotNet1/IntroLib/obj/Debug/net6.0/ref/IntroLib.dll
 /home/suyogrepale/DotNet/DotNet1/IntroLib/obj/Debug/net6.0/IntroLib.pdb
+/home/suyogrepale/Software/DotNet/DotNet1/IntroLib/bin/Debug/net6.0/IntroLib.deps.json
+/home/suyogrepale/Software/DotNet/DotNet1/IntroLib/bin/Debug/net6.0/IntroLib.dll
+/home/suyogrepale/Software/DotNet/DotNet1/IntroLib/bin/Debug/net6.0/ref/IntroLib.dll
+/home/suyogrepale/Software/DotNet/DotNet1/IntroLib/bin/Debug/net6.0/IntroLib.pdb
+/home/suyogrepale/Software/DotNet/DotNet1/IntroLib/obj/Debug/net6.0/IntroLib.csproj.AssemblyReference.cache
+/home/suyogrepale/Software/DotNet/DotNet1/IntroLib/obj/Debug/net6.0/IntroLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/suyogrepale/Software/DotNet/DotNet1/IntroLib/obj/Debug/net6.0/IntroLib.AssemblyInfoInputs.cache
+/home/suyogrepale/Software/DotNet/DotNet1/IntroLib/obj/Debug/net6.0/IntroLib.AssemblyInfo.cs
+/home/suyogrepale/Software/DotNet/DotNet1/IntroLib/obj/Debug/net6.0/IntroLib.csproj.CoreCompileInputs.cache
+/home/suyogrepale/Software/DotNet/DotNet1/IntroLib/obj/Debug/net6.0/IntroLib.dll
+/home/suyogrepale/Software/DotNet/DotNet1/IntroLib/obj/Debug/net6.0/ref/IntroLib.dll
+/home/suyogrepale/Software/DotNet/DotNet1/IntroLib/obj/Debug/net6.0/IntroLib.pdb

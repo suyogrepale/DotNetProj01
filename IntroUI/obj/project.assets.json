@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/suyogrepale/Software/DotNet/DotNet1/IntroUI/IntroUI.csproj",
+      "projectUniqueName": "/home/suyogrepale/Software/DotNet/Code/DotNet1/IntroUI/IntroUI.csproj",
       "projectName": "IntroUI",
-      "projectPath": "/home/suyogrepale/Software/DotNet/DotNet1/IntroUI/IntroUI.csproj",
+      "projectPath": "/home/suyogrepale/Software/DotNet/Code/DotNet1/IntroUI/IntroUI.csproj",
       "packagesPath": "/home/suyogrepale/.nuget/packages/",
-      "outputPath": "/home/suyogrepale/Software/DotNet/DotNet1/IntroUI/obj/",
+      "outputPath": "/home/suyogrepale/Software/DotNet/Code/DotNet1/IntroUI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/suyogrepale/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/suyogrepale/Software/DotNet/DotNet1/IntroLib/IntroLib.csproj": {
-              "projectPath": "/home/suyogrepale/Software/DotNet/DotNet1/IntroLib/IntroLib.csproj"
+            "/home/suyogrepale/Software/DotNet/Code/DotNet1/IntroLib/IntroLib.csproj": {
+              "projectPath": "/home/suyogrepale/Software/DotNet/Code/DotNet1/IntroLib/IntroLib.csproj"
             }
           }
         }
